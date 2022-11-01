@@ -17,15 +17,15 @@ $ help [-dms] [PATTERN ...]
 |`-s`|Output only a short usage synopsis for each topic matching the provided `PATTERN`.|
 
 ## Examples of uses:
-1. We get the complete information about the cd command
+1. We get the complete information about the `cd` command
 ```bash
 $ help cd
 ```
-2. We get a short description about the pdw command
+2. We get a short description about the `pdw` command
 ```bash 	
 $ help -d pwd
 ```
-3. We get the syntax of the cd command
+3. We get the syntax of the `cd` command
 ```bash
 $ help -s cd
 ```
