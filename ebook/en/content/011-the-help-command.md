@@ -21,7 +21,7 @@ $ help [-dms] [PATTERN ...]
 ```bash
 $ help cd
 ```
-2. We get a short description about the `pdw` command
+2. We get a short description about the `pwd` command
 ```bash 	
 $ help -d pwd
 ```
